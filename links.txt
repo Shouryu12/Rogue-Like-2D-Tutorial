@@ -1,0 +1,2 @@
+Neste arquivo ficarão os links usados para o estudo do GitKraken com 
+Unity, integrados ao Github.
