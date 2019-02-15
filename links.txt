@@ -4,4 +4,3 @@ Unity, integrados ao Github:
 
 
 https://github.com/radiatoryang/fall2017_intermediate001/wiki/GUIDE:-basic-GitKraken---GitHub---Unity
-https://support.gitkraken.com/start-here/keyboard-shortcuts/#ui
