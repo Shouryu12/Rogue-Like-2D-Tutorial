@@ -1,2 +1,6 @@
-Neste arquivo ficarão os links usados para o estudo do GitKraken com 
-Unity, integrados ao Github.
+﻿Neste arquivo ficarão os links usados para o estudo do GitKraken com 
+Unity, integrados ao Github:
+
+
+
+https://github.com/radiatoryang/fall2017_intermediate001/wiki/GUIDE:-basic-GitKraken---GitHub---Unity
